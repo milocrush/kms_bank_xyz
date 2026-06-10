@@ -1,0 +1,5 @@
+username,password_hash,nama,role,unit,keahlian,kontak
+admin,240be518fabd2724b3094dca0a2d7c5ca0eeb352468a8fc8b7503f653aa98c85,Administrator,Admin,Knowledge Management,Validasi Konten dan Dashboard,admin@bankxyz.co.id
+budi.santoso,240be518fabd2724b3094dca0a2d7c5ca0eeb352468a8fc8b7503f653aa98c85,Budi Santoso,Knowledge Manager,Operasional,Manajemen Operasional dan Transfer Pengetahuan,budi@bankxyz.co.id
+siti.aminah,240be518fabd2724b3094dca0a2d7c5ca0eeb352468a8fc8b7503f653aa98c85,Siti Aminah,Knowledge Worker,Kredit,Analisis Kredit dan Restrukturisasi,siti@bankxyz.co.id
+rizky.pratama,240be518fabd2724b3094dca0a2d7c5ca0eeb352468a8fc8b7503f653aa98c85,Rizky Pratama,Knowledge Worker,Operasional,Layanan Operasional Cabang,rizky@bankxyz.co.id
